@@ -1,4 +1,4 @@
-datavizgt
+Los Labs
 =========
 
-Laboratorios de datavizgt: Área de experimentación 
+Área de experimentación para el grupo de estudio de visualización de datos en Guatemala: [datavizgt](http://datavizgt.org)
